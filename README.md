@@ -5,4 +5,4 @@
 ## Run the "bash ./ReplRoot/pkg.sh" in the Virtual Root folder (/) or "cd ReplRoot && bash pkg.sh" to go inside the folder and run the bash script from there.  
 
 # Boost the REPL for better resources.  
-## Its 2 cents a day.  
+## Its 0 cents a day.  
